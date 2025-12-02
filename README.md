@@ -2,31 +2,6 @@
 
 ---
 
-## **Step 0: Preparation (Before Hackathon Day)**
-
-1. **Tools & Accounts ready karo:**
-
-   * **Claude Code Router** → Is se aap free LLM model use kar sakte hain.
-
-     * GitHub: [Claude Code Router](https://github.com/musistudio/claude-code-router)
-     * Setup guide: [Free Claude Setup](https://ai-native.panaversity.org/docs/AI-Tool-Landscape/claude-code-features-and-workflows/free-claude-setup)
-   * **Spec-Kit Plus** → Ye aapke project specifications generate karega.
-   * **Docusaurus 3.9** → Book create aur deploy karne ke liye.
-
-     * [Docusaurus](https://docusaurus.io/)
-   * **OpenAI ChatKit** → RAG Chatbot integration ke liye.
-
-     * [ChatKit Python SDK](https://github.com/openai/chatkit-python/)
-   * **Qdrant Cloud Free Tier** → RAG ke liye vector database.
-   * **GitHub Account** → Codebase aur deployment ke liye.
-
-2. **Join WhatsApp Group** → Technical updates aur book title ke liye.
-   Link: [Friday Evening Students](https://chat.whatsapp.com/GfvAEUGGBbsBJL4W25uKpc)
-
-3. **Reading & Videos:**
-
-   * Claude Code docs: [Subagents & Skills](https://code.claude.com/docs/en/overview)
-   * Lectures: [YouTube Playlist](https://youtube.com/playlist?list=PLY-fvIYzjXhcyAHJE9IhNHNxZWdhReIMf&si=Q1GZWX1sYUsnqQdY)
 
 ---
 
@@ -178,7 +153,29 @@
 | 8    | Zoom Review              | Showcase project                                           |
 
 ---
+## **Step 0: Preparation (Before Hackathon Day)**
 
-Agar chaho, main aap ke liye **exact chain of commands aur folder structure** ka ek ready-to-use template bana sakta hoon jo Hackathon ke din directly use ho jaye.
+1. **Tools & Accounts ready karo:**
 
-Kya main ye bana doon?
+   * **Claude Code Router** → Is se aap free LLM model use kar sakte hain.
+
+     * GitHub: [Claude Code Router](https://github.com/musistudio/claude-code-router)
+     * Setup guide: [Free Claude Setup](https://ai-native.panaversity.org/docs/AI-Tool-Landscape/claude-code-features-and-workflows/free-claude-setup)
+   * **Spec-Kit Plus** → Ye aapke project specifications generate karega.
+   * **Docusaurus 3.9** → Book create aur deploy karne ke liye.
+
+     * [Docusaurus](https://docusaurus.io/)
+   * **OpenAI ChatKit** → RAG Chatbot integration ke liye.
+
+     * [ChatKit Python SDK](https://github.com/openai/chatkit-python/)
+   * **Qdrant Cloud Free Tier** → RAG ke liye vector database.
+   * **GitHub Account** → Codebase aur deployment ke liye.
+
+2. **Join WhatsApp Group** → Technical updates aur book title ke liye.
+   Link: [Friday Evening Students](https://chat.whatsapp.com/GfvAEUGGBbsBJL4W25uKpc)
+
+3. **Reading & Videos:**
+
+   * Claude Code docs: [Subagents & Skills](https://code.claude.com/docs/en/overview)
+   * Lectures: [YouTube Playlist](https://youtube.com/playlist?list=PLY-fvIYzjXhcyAHJE9IhNHNxZWdhReIMf&si=Q1GZWX1sYUsnqQdY)
+
